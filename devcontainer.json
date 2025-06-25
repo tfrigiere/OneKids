@@ -1,4 +1,0 @@
-{
-  "name": "MkDocs Dev Container",
-  "postCreateCommand": "pip install mkdocs"
-}
